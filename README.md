@@ -1,4 +1,4 @@
-![](https://github.com/leckylee0519/leckylee0519.github.io/blob/master/img/blog_show.jpg)
+
 
 [![Build Status](https://travis-ci.org/leckylee0519/leckylee0519.github.io.svg?branch=master)](https://travis-ci.org/leckylee0519/leckylee0519.github.io)
 [![codebeat badge](https://codebeat.co/badges/983a14cb-2bdc-491e-9e1b-5b100beda57b)](https://codebeat.co/projects/github-com-leckylee0519-leckylee0519-github-io-master)
