@@ -16,22 +16,22 @@
 
 # ---- 1、基本配置
 
-title: Meswx Blog # 你的博客名称，如：唐太宗的博客，以下配置如无特别说明，英文中文都OK
-SEOTitle: 祥仔的博客 | Meswx Blog # 这个是显示在浏览器Tab上的标题，如未指定该配置参数，系统会默认显示上面的title
-header-img: img/home-bg_meswx.jpg # 这个定义了博客首页的顶部背景图，可以根据自己的喜好，设置不同的图
-email: meswx@outlook.com # 你的邮箱，如：84787843@qq.com，右边头像栏底下显示
-description: "Your feature, your way. | Android Developer, Software Engineer | 这里是 @Meswx祥仔 的个人博客，互联网发声专属领地。" # 你的博客描述，这个内容不会显示在博客界面上，可以随便写点
-keyword: "祥仔, Meswx, @meswx, 祥仔的博客, 个人博客, 设计, Meswx Blog, Github, Jekyll, Developer" # 这里填博客的索引关键字，最好是英文，如：iPhone，多个关键字使用英文状态下的逗号隔开 
-url: "http://meswx.github.io" # 这里填我们GitHub账号的仓库（repo）名称，如：http://xxx.github.io
+title: LeckyLee's Blog # 你的博客名称，如：唐太宗的博客，以下配置如无特别说明，英文中文都OK
+SEOTitle: 车人羽的博客 | Leckylee's Blog # 这个是显示在浏览器Tab上的标题，如未指定该配置参数，系统会默认显示上面的title
+header-img: img/home-bg_leckylee.jpg # 这个定义了博客首页的顶部背景图，可以根据自己的喜好，设置不同的图
+email: leckylee519@icloud.com # 你的邮箱，如：84787843@qq.com，右边头像栏底下显示
+description: "一念开明,反身而诚"# 你的博客描述，这个内容不会显示在博客界面上，可以随便写点
+keyword: "Java,Developer,History,LeckyLee" # 这里填博客的索引关键字，最好是英文，如：iPhone，多个关键字使用英文状态下的逗号隔开
+url: "http://leckylee0519.github.io" # 这里填我们GitHub账号的仓库（repo）名称，如：http://xxx.github.io
 baseurl: "" # 可忽略，官方解释：for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/Meswx/meswx.github.io.git" 
+github_repo: "https://github.com/leckylee0519/leckylee0519.github.io.git"
 # 你的GitHub仓库全名称（you code repository）,注意结尾要加上.git，如：https://github.com/zhangsan/zhangsan.github.io.git
 
 # ---- 2、侧边栏配置（Sidebar settings）
 
 sidebar: true # 是否使用侧边栏（头像，简介...），看个人喜好吧，我这里启用
-sidebar-about-description: "Live, work, pose!<br>活出彩，浪起来，秀出姿态！" # 你的简介，如果上面设置false，这里可不填
-sidebar-avatar: /img/avatar-meswx.jpg # 你的头像图片的地址
+sidebar-about-description: "一念开明,反身而诚" # 你的简介，如果上面设置false，这里可不填
+sidebar-avatar: /img/avatar-leckylee.jpg # 你的头像图片的地址
 
 # ---- 3、社交账号配置（SNS settings）
 
@@ -124,7 +124,7 @@ gitalk:
 # 统计，网站分析
 
 # Baidu Analytics
-ba_track_id: b8c1a7ce2806ce65e15f568ff0aef534 # 自己去百度统计注册，把你注册的track_id填这里
+ba_track_id: 826b87b9a60c7f7ea90592d809a13045 # 自己去百度统计注册，把你注册的track_id填这里
 
 # Google Analytics
 ga_track_id: 'UA-145463114-1' # 你用Google账号去注册一个就会给你一个这样的id，Format: UA-xxxxxx-xx
