@@ -37,12 +37,12 @@ sidebar-avatar: /img/avatar-leckylee.jpg # 你的头像图片的地址
 
 RSS: false  # 是否启用RSS订阅
 
-weibo_username:     meswx      # 签名加了"#"号就表示，注释掉了，不设置微博账号
-zhihu_username:     meswx      # 知乎，找到个人知乎主页，如：https://www.zhihu.com/people/zhangsan，这里的“zhangsan”就是你要填在这里的，下面的都类似
-github_username:    meswx      # GitHub
+#weibo_username:     meswx      # 签名加了"#"号就表示，注释掉了，不设置微博账号
+#zhihu_username:     meswx      # 知乎，找到个人知乎主页，如：https://www.zhihu.com/people/zhangsan，这里的“zhangsan”就是你要填在这里的，下面的都类似
+github_username:    leckylee0519      # GitHub
 # facebook_username:  meswx      # Facebook
-jianshu_username:   f9133bd04508  # 简书，https://www.jianshu.com/u/f9133bd04508，简书链接前面固定部分已经代码中写好，你只需要把你的id填到这
-twitter_username:   mieswx    # Twitter
+jianshu_username:   fc07413082ce  # 简书，https://www.jianshu.com/u/f9133bd04508，简书链接前面固定部分已经代码中写好，你只需要把你的id填到这
+#twitter_username:   mieswx    # Twitter
 
 # 想加更多社交账号的只能看代码了，一般来说上面都够用了，如有需要，请联系我：meswx@outlook.com
 
@@ -55,16 +55,8 @@ featured-condition-size: 0        # 相同标签数量大于这个数，才会�
 
 friends: [
     {
-        title: "Hux Blog",              # 要显示的名称
-        href: "http://huangxuan.me/"   # 好友的博客链接
-    },
-    {
-        title: "BY Blog",              # 要显示的名称
-        href: "https://github.com/qiubaiying"    # 好友的博客链接
-    },
-    {
-        title: "Clean Blog",              # 要显示的名称
-        href: "http://blackrockdigital.github.io/startbootstrap-clean-blog-jekyll/"    # 好友的博客链接
+        title: "Meswx Blog",              # 要显示的名称
+        href: "https://meswx.github.io/"   # 好友的博客链接
     }
 
     # 可以无限加，注意数组语法，如果再加第3个，则需要在第2个的花括号“}“后面加上英文的逗号","
